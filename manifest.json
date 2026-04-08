@@ -201,11 +201,11 @@
     "id": "msgconvert",
     "name": "MSG Converter",
     "description": "Outlook-E-Mails (.msg) in Text, HTML, EML oder PDF konvertieren.",
-    "version": "0.50.0",
+    "version": "0.55.0",
     "downloadSize": 4204399,
     "installedSize": 31457280,
-    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/msgconvert-0.50.0-macos-arm64.zip",
-    "checksum": "72ec9f2f2b7123399088fde10bdcbf78bfd1b70c3e64b2ae6f7dce69db15e4b9",
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/msgconvert-0.55.0-macos-arm64.zip",
+    "checksum": "95d24fca836c2f045c7b98abd9ae8a89fe7eb9b3ffc34b36331033ae6fa91e94",
     "platform": "macos-arm64",
     "binaries": [
       "msgconvert"
@@ -214,7 +214,7 @@
   {
     "id": "unrar",
     "name": "UnRAR",
-    "description": "RAR-Archive entpacken. Wird für CBR Comic-Books benötigt.",
+    "description": "RAR-Archive entpacken. Wird f\u00fcr CBR Comic-Books ben\u00f6tigt.",
     "version": "7.1.5",
     "downloadSize": 187829,
     "installedSize": 1048576,
@@ -307,7 +307,7 @@
   {
     "id": "qpdf",
     "name": "QPDF",
-    "description": "PDF optimieren, reparieren und linearisieren für Web-Anzeige.",
+    "description": "PDF optimieren, reparieren und linearisieren f\u00fcr Web-Anzeige.",
     "version": "12.3.2",
     "downloadSize": 3328389,
     "installedSize": 8000000,
@@ -321,7 +321,7 @@
   {
     "id": "gifsicle",
     "name": "Gifsicle",
-    "description": "GIF-Animationen optimieren: Dateigrösse reduzieren, Frames bearbeiten.",
+    "description": "GIF-Animationen optimieren: Dateigr\u00f6sse reduzieren, Frames bearbeiten.",
     "version": "1.95",
     "downloadSize": 108019,
     "installedSize": 300000,
@@ -335,7 +335,7 @@
   {
     "id": "unpaper",
     "name": "Unpaper",
-    "description": "Scans aufbereiten: Ränder entfernen, Seiten begradigen, Rauschen reduzieren.",
+    "description": "Scans aufbereiten: R\u00e4nder entfernen, Seiten begradigen, Rauschen reduzieren.",
     "version": "7.0.0",
     "downloadSize": 13939392,
     "installedSize": 35000000,
