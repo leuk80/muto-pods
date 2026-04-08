@@ -1,0 +1,228 @@
+[
+  {
+    "id": "ffmpeg",
+    "name": "FFmpeg",
+    "description": "Video-, Audio- und Subtitle-Konvertierungen. MP4, MOV, MKV, MP3, WAV, FLAC, GIF und 30+ weitere Formate.",
+    "version": "8.1",
+    "downloadSize": 52428800,
+    "installedSize": 104857600,
+    "downloadURL": "https://github.com/Tyrrrz/FFmpegBin/releases/download/8.1/ffmpeg-osx-arm64.zip",
+    "downloadURLs": [],
+    "checksum": "",
+    "platform": "macos-arm64",
+    "binaries": [
+      "ffmpeg",
+      "ffprobe"
+    ]
+  },
+  {
+    "id": "pandoc",
+    "name": "Pandoc",
+    "description": "Markup-Konvertierungen: Markdown, LaTeX, EPUB, AsciiDoc, reStructuredText, Jupyter Notebooks.",
+    "version": "3.9.0.2",
+    "downloadSize": 41943040,
+    "installedSize": 83886080,
+    "downloadURL": "https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-arm64-macOS.zip",
+    "checksum": "",
+    "platform": "macos-arm64",
+    "binaries": [
+      "pandoc"
+    ]
+  },
+  {
+    "id": "typst",
+    "name": "Typst",
+    "description": "Modernes Typesetting: Typst-Dokumente und Markdown in hochwertige PDFs umwandeln.",
+    "version": "0.14.2",
+    "downloadSize": 20971520,
+    "installedSize": 41943040,
+    "downloadURL": "https://github.com/typst/typst/releases/download/v0.14.2/typst-aarch64-apple-darwin.tar.xz",
+    "checksum": "",
+    "platform": "macos-arm64",
+    "binaries": [
+      "typst"
+    ]
+  },
+  {
+    "id": "imagetools",
+    "name": "ImageTools",
+    "description": "Erweiterte Bildkonvertierungen: WebP, AVIF, JXL, RAW, PSD, SVG-Rasterung, PNG/JPEG-Optimierung.",
+    "version": "1.0.0",
+    "downloadSize": 32724991,
+    "installedSize": 52428800,
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/imagetools-1.0.0-macos-arm64.zip",
+    "checksum": "a3a71c2c417e81f376e545ac3755c5f1293c9332ee6b0b2676395ff4a0b163b0",
+    "platform": "macos-arm64",
+    "binaries": [
+      "vips",
+      "potrace",
+      "pngquant",
+      "cjpeg",
+      "oxipng",
+      "gifski",
+      "rsvg-convert"
+    ]
+  },
+  {
+    "id": "libreoffice",
+    "name": "LibreOffice",
+    "description": "Office-Dokumente konvertieren: DOCX, XLSX, PPTX, PDF, ODT und weitere Office-Formate.",
+    "version": "26.2.2",
+    "downloadSize": 419430400,
+    "installedSize": 629145600,
+    "downloadURL": "https://download.documentfoundation.org/libreoffice/stable/26.2.2/mac/aarch64/LibreOffice_26.2.2_MacOS_aarch64.dmg",
+    "checksum": "",
+    "platform": "macos-arm64",
+    "binaries": [
+      "soffice"
+    ],
+    "archiveType": "dmg",
+    "appBinaryPath": "LibreOffice.app/Contents/MacOS",
+    "copyWholeApp": true
+  },
+  {
+    "id": "ghostscript",
+    "name": "Ghostscript",
+    "description": "PDF-Operationen: Komprimierung, PDF/A, Merge/Split, EPS/PostScript-Konvertierung.",
+    "version": "10.04.0",
+    "downloadSize": 12571649,
+    "installedSize": 83886080,
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/ghostscript-10.04.0-macos-arm64.zip",
+    "checksum": "bedf99634c3045b93d40ee5d8e3ce86d22e230dc792ba847babb3d475ed9c9ac",
+    "platform": "macos-arm64",
+    "binaries": [
+      "gs"
+    ]
+  },
+  {
+    "id": "tesseract",
+    "name": "Tesseract OCR",
+    "description": "Texterkennung (OCR): Bilder und gescannte PDFs in durchsuchbaren Text umwandeln.",
+    "version": "5.5.0",
+    "downloadSize": 5232641,
+    "installedSize": 52428800,
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/tesseract-5.5.0-macos-arm64.zip",
+    "checksum": "d83950c83233cd6358e3e97abb71ef2a37b9a257305d86d8e68fa2233169d33d",
+    "platform": "macos-arm64",
+    "binaries": [
+      "tesseract"
+    ]
+  },
+  {
+    "id": "whisper",
+    "name": "Whisper",
+    "description": "KI-Transkription: Audio und Video lokal in Text, SRT oder VTT umwandeln. Mehrsprachig.",
+    "version": "1.8.4",
+    "downloadSize": 1546551987,
+    "installedSize": 157286400,
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/whisper-cpp-1.8.4-macos-arm64.zip",
+    "checksum": "daad10029957ed9ae1b1188b7612a9cbd2d985077cb93382aa52c9fa8c43d9f5",
+    "platform": "macos-arm64",
+    "binaries": [
+      "whisper-cli"
+    ]
+  },
+  {
+    "id": "calibre",
+    "name": "Calibre",
+    "description": "E-Book-Konvertierungen: EPUB, MOBI, AZW3, FB2, PDF und weitere E-Book-Formate.",
+    "version": "9.6.0",
+    "downloadSize": 336592896,
+    "installedSize": 419430400,
+    "downloadURL": "https://github.com/kovidgoyal/calibre/releases/download/v9.6.0/calibre-9.6.0.dmg",
+    "checksum": "",
+    "platform": "macos-arm64",
+    "binaries": [
+      "ebook-convert"
+    ],
+    "archiveType": "dmg",
+    "appBinaryPath": "calibre.app/Contents/MacOS",
+    "copyWholeApp": true
+  },
+  {
+    "id": "fonttools",
+    "name": "FontTools",
+    "description": "Schriftarten konvertieren: OTF, TTF, WOFF, WOFF2. Subsetting und Variable-Font-Extraktion.",
+    "version": "4.55.0",
+    "downloadSize": 21509266,
+    "installedSize": 20971520,
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/fonttools-4.55.0-macos-arm64.zip",
+    "checksum": "53c573ba5bf9a866209ae6ea561cbc4aaed1c7120cc0c42f251a438fe0a24ea8",
+    "platform": "macos-arm64",
+    "binaries": [
+      "pyftsubset",
+      "fonttools"
+    ]
+  },
+  {
+    "id": "gdal",
+    "name": "GDAL",
+    "description": "Geodaten konvertieren: GeoJSON, KML, GPX, Shapefile, GeoPackage, Koordinatensysteme.",
+    "version": "3.12.3",
+    "downloadSize": 47132609,
+    "installedSize": 125829120,
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/gdal-3.12.3-macos-arm64.zip",
+    "checksum": "0aaf222d9032ac9c09173e7dcd9253f592fc5a85c38c832cfbd7b0e3e8c28b27",
+    "platform": "macos-arm64",
+    "binaries": [
+      "ogr2ogr",
+      "gdal_translate"
+    ]
+  },
+  {
+    "id": "assimp",
+    "name": "Assimp",
+    "description": "3D-Modelle konvertieren: STL, OBJ, glTF, GLB, FBX, Collada und weitere 3D-Formate.",
+    "version": "6.0.0",
+    "downloadSize": 2599606,
+    "installedSize": 20971520,
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/assimp-6.0.0-macos-arm64.zip",
+    "checksum": "fb5cff5eba85ac8854e3eb2cb71a4e94fdcb26825003536fb412bb1905c0ac11",
+    "platform": "macos-arm64",
+    "binaries": [
+      "assimp"
+    ]
+  },
+  {
+    "id": "sox",
+    "name": "SoX",
+    "description": "Erweiterte Audio-Effekte: Reverb, Noise Reduction, Resampling, Normalisierung, Spektrogramme.",
+    "version": "14.4.2",
+    "downloadSize": 1383643,
+    "installedSize": 15728640,
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/sox-14.4.2-macos-arm64.zip",
+    "checksum": "858bea83adf3d7f93222664303070b784756801880d7c412e39423b4369d5eab",
+    "platform": "macos-arm64",
+    "binaries": [
+      "sox"
+    ]
+  },
+  {
+    "id": "msgconvert",
+    "name": "MSG Converter",
+    "description": "Outlook-E-Mails (.msg) in Text, HTML, EML oder PDF konvertieren.",
+    "version": "0.50.0",
+    "downloadSize": 4204399,
+    "installedSize": 31457280,
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/msgconvert-0.50.0-macos-arm64.zip",
+    "checksum": "72ec9f2f2b7123399088fde10bdcbf78bfd1b70c3e64b2ae6f7dce69db15e4b9",
+    "platform": "macos-arm64",
+    "binaries": [
+      "msgconvert"
+    ]
+  },
+  {
+    "id": "unrar",
+    "name": "UnRAR",
+    "description": "RAR-Archive entpacken. Wird für CBR Comic-Books benötigt.",
+    "version": "7.1.5",
+    "downloadSize": 187829,
+    "installedSize": 1048576,
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/unrar-7.1.5-macos-arm64.zip",
+    "checksum": "34b79cbd11badb63cec20476895d05a2b5ceaf9b344cbd2b8ac0400971cc7425",
+    "platform": "macos-arm64",
+    "binaries": [
+      "unrar"
+    ]
+  }
+]
