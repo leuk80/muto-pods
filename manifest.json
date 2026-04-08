@@ -239,5 +239,111 @@
       "dcraw_emu",
       "raw-identify"
     ]
+  },
+  {
+    "id": "poppler",
+    "name": "Poppler",
+    "description": "PDF-Werkzeuge: Text extrahieren, Seiten als Bilder exportieren, PDF-Info.",
+    "version": "26.04.0",
+    "downloadSize": 8575500,
+    "installedSize": 25000000,
+    "binaries": [
+      "pdftotext",
+      "pdftoppm",
+      "pdfinfo",
+      "pdfimages",
+      "pdfseparate"
+    ],
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/poppler-26.04.0-macos-arm64.zip",
+    "checksum": "b0cfe079a235ec4f67ede67ca8b4a571ee6c60c0a878bb64c46d44bfd00a00c2",
+    "platform": "macos-arm64"
+  },
+  {
+    "id": "exiftool",
+    "name": "ExifTool",
+    "description": "Foto-Metadaten lesen und exportieren: EXIF, IPTC, XMP, GPS-Daten.",
+    "version": "13.25",
+    "downloadSize": 5357892,
+    "installedSize": 15000000,
+    "binaries": [
+      "exiftool"
+    ],
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/exiftool-13.25-macos-arm64.zip",
+    "checksum": "e9f70117256dc562611eb28383e837793dda2d388f8ac502e6cb21ca5c5d77b2",
+    "platform": "macos-arm64"
+  },
+  {
+    "id": "djvulibre",
+    "name": "DjVuLibre",
+    "description": "DjVu-Dokumente konvertieren: DjVu zu PDF, TIFF oder Text.",
+    "version": "3.5.29",
+    "downloadSize": 1288787,
+    "installedSize": 4000000,
+    "binaries": [
+      "ddjvu",
+      "djvutxt",
+      "djvused"
+    ],
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/djvulibre-3.5.29-macos-arm64.zip",
+    "checksum": "84350ae9844271982773e2e19d66637b6db1e19ca85d8300390a02161e6ee441",
+    "platform": "macos-arm64"
+  },
+  {
+    "id": "graphviz",
+    "name": "Graphviz",
+    "description": "Diagramme rendern: DOT-Graphen zu SVG, PDF oder PNG.",
+    "version": "12.2.1",
+    "downloadSize": 1257490,
+    "installedSize": 5000000,
+    "binaries": [
+      "dot",
+      "neato",
+      "fdp"
+    ],
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/graphviz-12.2.1-macos-arm64.zip",
+    "checksum": "a222cba4ac774ee2a84e2bc4465f000b9f8b297826f66e6b884244801dbaa6bd",
+    "platform": "macos-arm64"
+  },
+  {
+    "id": "qpdf",
+    "name": "QPDF",
+    "description": "PDF optimieren, reparieren und linearisieren für Web-Anzeige.",
+    "version": "12.3.2",
+    "downloadSize": 3328389,
+    "installedSize": 8000000,
+    "binaries": [
+      "qpdf"
+    ],
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/qpdf-12.3.2-macos-arm64.zip",
+    "checksum": "4580eeb845c3f9a86bf6c2e02b50c354885baf0ab155762b80e6bf171eb7f7ca",
+    "platform": "macos-arm64"
+  },
+  {
+    "id": "gifsicle",
+    "name": "Gifsicle",
+    "description": "GIF-Animationen optimieren: Dateigrösse reduzieren, Frames bearbeiten.",
+    "version": "1.95",
+    "downloadSize": 108019,
+    "installedSize": 300000,
+    "binaries": [
+      "gifsicle"
+    ],
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/gifsicle-1.95-macos-arm64.zip",
+    "checksum": "af07dd55144384f33aaab0cd7b18de0e14e55d4285aa32c424a6acc08c2c58ef",
+    "platform": "macos-arm64"
+  },
+  {
+    "id": "unpaper",
+    "name": "Unpaper",
+    "description": "Scans aufbereiten: Ränder entfernen, Seiten begradigen, Rauschen reduzieren.",
+    "version": "7.0.0",
+    "downloadSize": 13939392,
+    "installedSize": 35000000,
+    "binaries": [
+      "unpaper"
+    ],
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/unpaper-7.0.0-macos-arm64.zip",
+    "checksum": "1d993fdef1ea348731c03a9cd63b07b87734a6097a838fc8e476b1aca1a2f8cb",
+    "platform": "macos-arm64"
   }
 ]
