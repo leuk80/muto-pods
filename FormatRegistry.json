@@ -23032,6 +23032,307 @@
       "podID": "unpaper",
       "engine": "unpaper",
       "weight": 1
+    },
+    {
+      "from": "wav",
+      "to": "aac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "wav",
+      "to": "m4a",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "wav",
+      "to": "alac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "wav",
+      "to": "aiff",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "wav",
+      "to": "flac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "wav",
+      "to": "caf",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aiff",
+      "to": "aac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aiff",
+      "to": "m4a",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aiff",
+      "to": "alac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aiff",
+      "to": "wav",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aiff",
+      "to": "flac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aiff",
+      "to": "caf",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "m4a",
+      "to": "aac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "m4a",
+      "to": "alac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "m4a",
+      "to": "aiff",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "m4a",
+      "to": "wav",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "m4a",
+      "to": "flac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "m4a",
+      "to": "caf",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aac",
+      "to": "m4a",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aac",
+      "to": "alac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aac",
+      "to": "aiff",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aac",
+      "to": "wav",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aac",
+      "to": "flac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "aac",
+      "to": "caf",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "flac",
+      "to": "aac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "flac",
+      "to": "m4a",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "flac",
+      "to": "alac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "flac",
+      "to": "aiff",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "flac",
+      "to": "wav",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "flac",
+      "to": "caf",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "caf",
+      "to": "aac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "caf",
+      "to": "m4a",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "caf",
+      "to": "alac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "caf",
+      "to": "aiff",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "caf",
+      "to": "wav",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "caf",
+      "to": "flac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "ac3",
+      "to": "aac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "ac3",
+      "to": "m4a",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "ac3",
+      "to": "alac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "ac3",
+      "to": "aiff",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "ac3",
+      "to": "wav",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "ac3",
+      "to": "flac",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
+    },
+    {
+      "from": "ac3",
+      "to": "caf",
+      "podID": null,
+      "engine": "afconvert",
+      "weight": 1
     }
   ]
 }
