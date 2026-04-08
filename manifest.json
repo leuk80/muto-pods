@@ -224,5 +224,20 @@
     "binaries": [
       "unrar"
     ]
+  },
+  {
+    "id": "libraw",
+    "name": "LibRaw",
+    "description": "RAW-Fotos konvertieren: CR2, CR3, NEF, ARW, RAF, ORF, DNG und weitere Kamera-Formate.",
+    "version": "0.21.3",
+    "downloadSize": 1059751,
+    "installedSize": 3145728,
+    "downloadURL": "https://github.com/leuk80/muto-pods/releases/download/pods-v20260408/libraw-0.21.3-macos-arm64.zip",
+    "checksum": "33821bf83d6e8a907b35fe653bbf3ae00cf70ea203603c7ad637b834f857e264",
+    "platform": "macos-arm64",
+    "binaries": [
+      "dcraw_emu",
+      "raw-identify"
+    ]
   }
 ]
