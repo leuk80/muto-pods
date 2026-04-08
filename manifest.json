@@ -8,7 +8,7 @@
     "installedSize": 104857600,
     "downloadURL": "https://github.com/Tyrrrz/FFmpegBin/releases/download/8.1/ffmpeg-osx-arm64.zip",
     "downloadURLs": [],
-    "checksum": "",
+    "checksum": "d3c264e289ab26b1d155efc8fcde072fb7ffd2c1b2adc56e12006b75e12591cc",
     "platform": "macos-arm64",
     "binaries": [
       "ffmpeg",
@@ -23,7 +23,7 @@
     "downloadSize": 41943040,
     "installedSize": 83886080,
     "downloadURL": "https://github.com/jgm/pandoc/releases/download/3.9.0.2/pandoc-3.9.0.2-arm64-macOS.zip",
-    "checksum": "",
+    "checksum": "6e9eca844076bcbb599bbeebbba78a70f93b5307782b85c2c272872812c88875",
     "platform": "macos-arm64",
     "binaries": [
       "pandoc"
@@ -37,7 +37,7 @@
     "downloadSize": 20971520,
     "installedSize": 41943040,
     "downloadURL": "https://github.com/typst/typst/releases/download/v0.14.2/typst-aarch64-apple-darwin.tar.xz",
-    "checksum": "",
+    "checksum": "470aa49a2298d20b65c119a10e4ff8808550453e0cb4d85625b89caf0cedf048",
     "platform": "macos-arm64",
     "binaries": [
       "typst"
@@ -71,7 +71,7 @@
     "downloadSize": 419430400,
     "installedSize": 629145600,
     "downloadURL": "https://download.documentfoundation.org/libreoffice/stable/26.2.2/mac/aarch64/LibreOffice_26.2.2_MacOS_aarch64.dmg",
-    "checksum": "",
+    "checksum": "2a603303b0a7a17c2f6dd381d2039ca79fecc73cb7c25a13ebea15cf0919c751",
     "platform": "macos-arm64",
     "binaries": [
       "soffice"
@@ -130,7 +130,7 @@
     "downloadSize": 336592896,
     "installedSize": 419430400,
     "downloadURL": "https://github.com/kovidgoyal/calibre/releases/download/v9.6.0/calibre-9.6.0.dmg",
-    "checksum": "",
+    "checksum": "1e20b1a9859eae7411f4ff4fd7f7c64524ca16339d969aeb828b791673d03d4c",
     "platform": "macos-arm64",
     "binaries": [
       "ebook-convert"
@@ -214,7 +214,7 @@
   {
     "id": "unrar",
     "name": "UnRAR",
-    "description": "RAR-Archive entpacken. Wird für CBR Comic-Books benötigt.",
+    "description": "RAR-Archive entpacken. Wird f\u00fcr CBR Comic-Books ben\u00f6tigt.",
     "version": "7.1.5",
     "downloadSize": 187829,
     "installedSize": 1048576,
